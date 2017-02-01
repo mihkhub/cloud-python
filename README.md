@@ -4,7 +4,7 @@ This repository contains a few small files that allow to easily deploy Python (c
 
 It all works even on the smallest **DigitalOcean droplet** (cf. https://m.do.co/c/fbe512dd3dac) which currently costs 5 USD per month with 1 CPU core, 512 MB of RAM and 20 GB of SSD storage.
 
-When setting up such a droplet it is recommended to use a current version of **Ubuntu**.
+When setting up such a droplet it is recommended to use a current version of **CentOS 7**.
 
 I assume that you have **cloned the repository** to your local machine (Linux or Mac):
 
