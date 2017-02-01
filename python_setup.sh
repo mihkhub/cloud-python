@@ -6,8 +6,8 @@
 
 # A FEW SYSTEM TOOLS
 # ADD THINGS YOU WANT TO USE (e.g. Git)
-apt-get install htop unzip -y
-apt-get autoremove
+yum -y install htop unzip 
+yum -y install autoremove
 
 # INSTALL MINICONDA
 wget -q http://repo.continuum.io/miniconda/Miniconda-latest-Linux-x86_64.sh -O Miniconda.sh
