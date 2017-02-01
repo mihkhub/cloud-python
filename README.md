@@ -9,7 +9,7 @@ When setting up such a droplet it is recommended to use a current version of **C
 I assume that you have **cloned the repository** to your local machine (Linux or Mac):
 
 ```
-git clone --depth=1 https://github.com/yhilpisch/cloud-python
+git clone --depth=1 https://github.com/mihkhub/cloud-python
 ```
 
 ## DigitalOcean Droplet
